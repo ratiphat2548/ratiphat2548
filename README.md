@@ -27,7 +27,7 @@ I am passionate about bridging the gap between **Physical Sciences, Hardware Eng
 ---
 
 ## 🚀 Featured Projects Highlights
-* **🐟 Salmon Spoilage Detection via AI:** A conceptual framework combining optical physics (Photonic Biospeckle) and Computer Vision to classify meat freshness.
+* **🐟 BioSpeckle Salmon Spoilage Detection :** A conceptual framework combining optical physics (Photonic Biospeckle) and Computer Vision to classify meat freshness.
 * **🌤️ IoT Smart Weather Station:** An Arduino-based environmental monitoring system with Node-RED dashboard and real-time LINE Notify alerts.
 * **📡 RF Heatmap Prototype:** High-frequency radio wave measurement and interactive heatmapping system.
 * **💡 LumiSense:** Pure digital circuit automated street light control system utilizing PWM for maximum energy efficiency.
