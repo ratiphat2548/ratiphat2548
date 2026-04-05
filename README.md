@@ -32,7 +32,4 @@ I am passionate about bridging the gap between **Physical Sciences, Hardware Eng
 * **📡 RF Heatmap Prototype:** High-frequency radio wave measurement and interactive heatmapping system.
 * **💡 LumiSense:** Pure digital circuit automated street light control system utilizing PWM for maximum energy efficiency.
 
----
 
-## 📊 GitHub Stats
-![ratiphat2548's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratiphat2548&show_icons=true&theme=radium)
